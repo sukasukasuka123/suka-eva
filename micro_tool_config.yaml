@@ -1,0 +1,14 @@
+toolconfig:
+  email:
+    smtp:
+      host: "smtp.example.com"
+      port: 587
+      username: "email_user"
+      api_key: "email_api_key"
+      from: "noreply@example.com"
+    imap:
+      host: "imap.example.com"
+      port: 993
+      username: "email_user"
+      api_key: "email_api_key"
+      mailbox: "INBOX"

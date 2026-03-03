@@ -1,0 +1,8 @@
+tool_list:
+  example:
+    port: 10001
+    description: "example tool for law usage as an example of how to use the tool list yaml file."
+    parameters:
+      query:
+        type: string
+        description: "this is an example"
