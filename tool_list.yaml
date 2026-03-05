@@ -1,6 +1,6 @@
 tool_list:
   example:
-    port: 10001
+    emdpoint: "12.0.0.1:10001"
     description: "example tool for law usage as an example of how to use the tool list yaml file."
     parameters:
       query:
