@@ -8,4 +8,4 @@ database:
 agent:
   ai_url: "https://dashscope.aliyuncs.com/compatible-mode/v1"
   ai_name: "qwen3.5-plus"
-  ai_api_key: "xxxxxxxxxxxxxxxxx"
+  ai_api_key: "xxxxxxxxxxxxxxxxxxx"
